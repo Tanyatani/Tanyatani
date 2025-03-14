@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Tanya!  
 
-🚀 **Tech Enthusiast | Data Analytics | IT Security | Tech Consulting**  
+🚀 **Tech Enthusiast | Tech Consulting | IT Security | Data Analytics**  
 💡 Passionate about **solving business problems with technology.**  
 📊 Skilled in **SQL, Python, IT Security, Data Analytics, Business Strategy**  
 🎯 Seeking opportunities in **Tech Consulting, IT Auditing, and Data Analytics**  
