@@ -34,6 +34,7 @@
 
 ##  Certifications
 🎓 Diploma in IT Management – Software & Databases (Alison)
+
 🎓 IT Management – Risk & Security Certificate (Alison)
 
 ---
