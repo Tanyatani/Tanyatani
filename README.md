@@ -10,14 +10,11 @@
 ## 📌 **Featured Projects**  
 
 🔹 **Role-Based Access Control (RBAC) System**   https://github.com/Tanyatani/RBAC-Database-Project.git 
-
 - **Developed & implemented** a secure **RBAC system** using **Python & SQLite** to ensure **data security & compliance**.  
 - **Designed a scalable user access hierarchy**, improving **data protection & permission management**.
 
 
 🔹 **Cloud Strategy & Cost Optimization – IKEA Case Study**  https://github.com/Tanyatani/ikea-cloud-strategy
-
- **Tech Consulting | Cloud Migration & Data Analysis**  
 - Developed a **cloud migration strategy**, comparing **AWS vs. Azure**  
 - Used **SQL-based cloud cost analysis** to identify **40% cost savings**  
 - Business impact: **$5,256 savings in AWS Reserved Instances over 3 years**  
